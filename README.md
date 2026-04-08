@@ -1,14 +1,13 @@
 **Project Overview**
 This project was completed as part of the Forage Virtual Experience Program offered by Tata Group. It focuses on using data visualization techniques to transform raw business data into meaningful insights that support decision-making.
-**
-Objectives**
+
+**Objectives**
 Understand business requirements through data analysis
 Create effective and interactive dashboards
 Communicate insights clearly to stakeholders
 Apply data storytelling principles
 
-**
-Tools and Technologies**
+**Tools and Technologies**
 Power BI / Tableau
 Microsoft Excel
 
